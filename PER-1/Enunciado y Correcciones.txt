@@ -1,0 +1,10 @@
+ENUNCIADO
+
+Dos números enteros positivos A y B son amigos cuando A es la suma de los divisores de B, y B es la suma de los divisores de A. El 1 se considera divisor, pero el mismo numero no lo es. 
+Un ejemplo es el par de números naturales ; 220 y 284. Los divisores de 220 son 1, 2, 4, 5, 10, 11, 20, 22, 55 y 110, que suman 284. Los divisores de 284 son 1, 2, 4, 71 y 142, que suman 220, entonces 220 y 284 son amigos. 
+Realizar un programa para ingresar dos números enteroso e imprimir un mensaje indicando si son amigos o no. 
+
+
+CORRECCIONES
+
+- Las funciones deben estar agrupadas al principio del script, no en medio del codigo.
